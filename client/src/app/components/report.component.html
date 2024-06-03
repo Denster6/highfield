@@ -1,0 +1,12 @@
+﻿<div>
+  <div>
+    {{pageTitle}}
+  </div>
+  <div>
+    <ul>
+      <li *ngFor="let colour of colours">
+        {{colour.description}} ({{colour.total}})
+      </li>
+    </ul>
+  </div>
+</div>
