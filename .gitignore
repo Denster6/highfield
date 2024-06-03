@@ -1,5 +1,9 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /api/.vs
+/api/highfield_api/bin/Debug/net6.0
+/api/highfield_api/obj
+/client/.vscode
+.vs/repo/v17/.suo
